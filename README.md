@@ -40,7 +40,7 @@ Built with modern web technologies, it serves as both a professional profile and
 * **Lucide Icons** – Clean and beautiful icon pack
 * **Radix UI** – Accessible component primitives
 * **TypeScript (optional)** – Type safety and tooling
-* **GitHub & Vercel** – Deployment
+* **GitHub & Netlify** – Deployment
 
 ---
 
@@ -68,7 +68,7 @@ Built with modern web technologies, it serves as both a professional profile and
   Social icons + responsive contact form with toast notifications
 
 * 🚀 **One-Click Deployment**
-  Easily host your site with Vercel and GitHub
+  Easily host your site with Netlify and GitHub
 
 ---
 
